@@ -14,3 +14,9 @@ Nothing yet…
 
 ### Work experience:
 Nothing yet…
+
+### Education and courses:
+[RSSchool](https://rs.school/js-stage0/) - Подготовительный курс «JavaScript/Front-end. Stage 0»
+
+### Language:
+English level - A1 (Elementary)
