@@ -1,5 +1,5 @@
 ## Igor Astapov
-— — —
+
 ### Contacts:
 * **DISCORD** : igor_dude
 * **Telegram** : [IgorDude](https://t.me/IgorDude)
