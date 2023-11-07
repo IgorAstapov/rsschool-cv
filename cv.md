@@ -16,7 +16,7 @@ Nothing yet…
 Nothing yet…
 
 ## Education and courses:
-[RSSchool](https://rs.school/js-stage0/) - Подготовительный курс «JavaScript/Front-end. Stage 0»
+[RSSchool](https://rs.school/js-stage0/) - Подготовительный курс «JavaScript/Front-end. Stage 0»  
 [RSSchool](https://rs.school/js//) - Курс «JavaScript/Front-end» - I am currently registered on it and am enrolled until 05/30/2024.
 
 ## Language:
